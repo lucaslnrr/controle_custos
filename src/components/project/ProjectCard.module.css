@@ -1,0 +1,56 @@
+
+.projectCard {
+    margin: 0.5%;
+}
+
+
+
+
+.categoryText {
+    display: text;
+    align-items: center;
+}
+
+.categoryText span {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ccc;
+    margin-right: 5px;
+}
+
+.categoryText .infra {
+    background-color: #FFAEBC;
+}
+
+.categoryText .desenvolvimento {
+    background-color: #A0E7E5;
+}
+
+.categoryText .design {
+    background-color: #B4F8C8;
+}
+
+.categoryText .planejamento {
+    background-color: #FBE7C6;
+}
+
+.projectCardActions {
+    text-decoration: none;
+    border: none;
+    margin-right: .5em;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.projectCardActions svg {
+    margin-right: .5em;
+}
+
+.deleteIcon {
+    color: rgb(236, 68, 68);
+}
+
+
+

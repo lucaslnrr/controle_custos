@@ -1,0 +1,14 @@
+
+
+.titleContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+.cardsContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 300px;
+}
